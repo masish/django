@@ -1,0 +1,158 @@
+[
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+  {
+    "model": "vote.Player",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "number": "Lennon",
+      "player_position": "Lennon"
+    }
+  },
+
+
+  
+  {
+    "model": "myapp.person",
+    "pk": 2,
+    "fields": {
+      "first_name": "Paul",
+      "last_name": "McCartney"
+    }
+  }
+]
