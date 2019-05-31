@@ -30,7 +30,7 @@ idna==2.6
 image==1.5.24
 isort==4.3.4
 itypes==1.1.0
-Jinja2==2.10
+Jinja2>=2.10.1
 joblib==0.11
 kiwisolver==1.0.1
 kombu==4.2.0
